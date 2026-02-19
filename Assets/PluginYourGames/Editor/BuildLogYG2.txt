@@ -1,0 +1,3 @@
+﻿Build path: D:/Release/TestYourSelf
+Build number: 9
+PluginYG version: 2.007

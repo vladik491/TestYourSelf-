@@ -1,0 +1,10 @@
+Authorization v1.022
+InterstitialAdv v1.01
+Leaderboards v1.01
+Localization v1.02
+Metrica v1.02
+RedefinePlayerPrefs v1.001
+Review v1.0
+RewardedAdv v1.011
+ServerTime v1.02
+Storage v1.021

@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/ContentChoiceScene.unity
+    guid: d44b3ad1c314c1f47b2c526e19d526d4
+  - enabled: 1
+    path: Assets/Scenes/Film/Characters/FilmHarryPotterCharacters.unity
+    guid: f238eb8d6ecb6e041a71a7ef125000e6
+  - enabled: 1
+    path: Assets/Scenes/Film/Characters/MarvelCharacters.unity
+    guid: bfeae5e335cfba64990c2314574f8678
+  - enabled: 1
+    path: Assets/Scenes/Film/Characters/PiratesOfTheCaribbeanCharacters.unity
+    guid: 99dc093d8ff4e3e4e96da35a9c946ced
+  - enabled: 1
+    path: Assets/Scenes/Film/Characters/LordOfTheRingsCharacters.unity
+    guid: dc0de4d39d878084c956bbe1d9a05688
+  - enabled: 1
+    path: Assets/Scenes/Film/Characters/TransformersCharacters.unity
+    guid: e355fe3596e47b24ba4b321ec6a9171c
+  - enabled: 1
+    path: Assets/Scenes/Film/Characters/StarWarsCharacters.unity
+    guid: 7452498a7dfbfee47b46f751323eb452
+  - enabled: 1
+    path: Assets/Scenes/Series/Characters/BreakingBadCharacters.unity
+    guid: 7b45f5f5a7781c2478fa9146388c1c82
+  - enabled: 1
+    path: Assets/Scenes/Series/Characters/DoctorWhoCharacters.unity
+    guid: 33536a4fdb1f93748bb9f6a7de755283
+  - enabled: 1
+    path: Assets/Scenes/Series/Characters/GameOfThronesCharacters.unity
+    guid: 75f1289d1d3b12a42b934ce59c01fd6a
+  - enabled: 1
+    path: Assets/Scenes/Series/Characters/SherlockCharacters.unity
+    guid: eab8dd94f2d15f14899b6da91cdc9fe0
+  - enabled: 1
+    path: Assets/Scenes/Series/Characters/StrangerThingsCharacters.unity
+    guid: 6a53b8d84e55b334c847c843deee718a
+  - enabled: 1
+    path: Assets/Scenes/Series/Characters/SupernaturalCharacters.unity
+    guid: 9e1bc7fea06e22a458c1c0227e16608a
+  - enabled: 1
+    path: Assets/Scenes/Anime/Characters/AttackOnTitanCharacters.unity
+    guid: a5ff0ae322fb51b4ba954477ebc0dbd0
+  - enabled: 1
+    path: Assets/Scenes/Anime/Characters/BleachCharacters.unity
+    guid: 9045d8d2328ac9a4fb0ef7e4a4be5c84
+  - enabled: 1
+    path: Assets/Scenes/Anime/Characters/MyHeroAcademiaCharacters.unity
+    guid: d962c925652aedf45ba04a75e286b0c4
+  - enabled: 1
+    path: Assets/Scenes/Anime/Characters/NarutoCharacters.unity
+    guid: 2a934cc0d2ef4c54fa84fac54988d31d
+  - enabled: 1
+    path: Assets/Scenes/Anime/Characters/OnePieceCharacters.unity
+    guid: f77534b657c4ae845a90560675c0641d
+  - enabled: 1
+    path: Assets/Scenes/Anime/Characters/PokemonCharacters.unity
+    guid: 3f19c9d782019104e98930982b09efe5
+  - enabled: 1
+    path: Assets/Scenes/Film/GeneralCheck/HarryPotterGeneralChek.unity
+    guid: fdf0f87d233992d43996f83adcb7253f
+  - enabled: 1
+    path: Assets/Scenes/Film/GeneralCheck/MarvelGeneralChek.unity
+    guid: 65c5f9c67f01d334392c04144e470daa
+  - enabled: 1
+    path: Assets/Scenes/Film/GeneralCheck/PiratesOfTheCaribbeanGeneraChek.unity
+    guid: 5a5c61afc20971049bcf2e0e850b45f6
+  - enabled: 1
+    path: Assets/Scenes/Film/GeneralCheck/StarWarsGeneralChek.unity
+    guid: 4498ee54c3c73e04b9fd7d90985d233a
+  - enabled: 1
+    path: Assets/Scenes/Film/GeneralCheck/TheLordOfTheRingsGeneralChek.unity
+    guid: 90d886036d8059548932f27c4f903bcb
+  - enabled: 1
+    path: Assets/Scenes/Film/GeneralCheck/TransformersGeneralChek.unity
+    guid: 23360db10fb8d284cb67fb559a9507c0
+  - enabled: 1
+    path: Assets/Scenes/Series/GeneralCheck/BreakingBadGeneralChek.unity
+    guid: 6440bcc3f504c1c44a4538bb390a47fc
+  - enabled: 1
+    path: Assets/Scenes/Series/GeneralCheck/DoctorWhoGeneralChek.unity
+    guid: fd089319ba274914797918c790ba5f17
+  - enabled: 1
+    path: Assets/Scenes/Series/GeneralCheck/GameOfThronesGeneralChek.unity
+    guid: 2a9516fb8b2fd4e4eb687b23d623d5c6
+  - enabled: 1
+    path: Assets/Scenes/Series/GeneralCheck/SherlockGeneralChek.unity
+    guid: b429bd5a20eb4cb498da9b4ce63b097e
+  - enabled: 1
+    path: Assets/Scenes/Series/GeneralCheck/StrangerThingsGeneralChek.unity
+    guid: 7c8ec6152b01a7b4ea31ef849e51f9fe
+  - enabled: 1
+    path: Assets/Scenes/Series/GeneralCheck/SupernaturalGeneralChek.unity
+    guid: 71216895d02480b40a4f4bb483af98c7
+  - enabled: 1
+    path: Assets/Scenes/Anime/GeneralCheck/AttackOnTitanGeneralChek.unity
+    guid: f293de80f5aadef489ba831b548e6cea
+  - enabled: 1
+    path: Assets/Scenes/Anime/GeneralCheck/BleachGeneralChek.unity
+    guid: 511d07125f53a764ea736669add37a3c
+  - enabled: 1
+    path: Assets/Scenes/Anime/GeneralCheck/MyHeroAcademiaGeneralChek.unity
+    guid: 716ed60e02953b34e8bff7c1b2824b4e
+  - enabled: 1
+    path: Assets/Scenes/Anime/GeneralCheck/NarutoGenralChek.unity
+    guid: a355e7925fe214f41922867e8cd1f6e3
+  - enabled: 1
+    path: Assets/Scenes/Anime/GeneralCheck/OnePieceGeneralChek.unity
+    guid: 1d9c26f558886624eb86166c844ef956
+  - enabled: 1
+    path: Assets/Scenes/Anime/GeneralCheck/PokemonGeneralChek.unity
+    guid: 151154514a1f1c24dbe6300bc6a83aca
+  - enabled: 1
+    path: Assets/Scenes/Film/Bunch/HarryPotterBunch.unity
+    guid: 6be4c31e15416a24cbe1e1ebe21fbedd
+  - enabled: 1
+    path: Assets/Scenes/Film/Bunch/MarvelBunch.unity
+    guid: b140bc3bef69a6f419bb96ea7327b2f3
+  - enabled: 1
+    path: Assets/Scenes/Film/Bunch/PiratesOfTheCaribbeanBunch.unity
+    guid: 9c3ab23a7d4f61347a8344f5cde8fedb
+  - enabled: 1
+    path: Assets/Scenes/Film/Bunch/StarWarsBunch.unity
+    guid: e0942ced54ef3fa4d8fea255b65d265b
+  - enabled: 1
+    path: Assets/Scenes/Film/Bunch/TheLordOfTheRingsBunch.unity
+    guid: 74d0cabfafb836d43a255708ba615fff
+  - enabled: 1
+    path: Assets/Scenes/Film/Bunch/TransformersBunch.unity
+    guid: 3b06d4d7530766d4ab7e71959ebf0753
+  - enabled: 1
+    path: Assets/Scenes/Series/Bunch/BreakingBadBunch.unity
+    guid: bbb66818bfde1dd409272c32aea24b12
+  - enabled: 1
+    path: Assets/Scenes/Series/Bunch/DoctorWhoBunch.unity
+    guid: 7c2cff1d520dfbd4a8ca2ef6fce9b05a
+  - enabled: 1
+    path: Assets/Scenes/Series/Bunch/GameOfThronesBunch.unity
+    guid: f05deba23746cc14da4b623d69625a8c
+  - enabled: 1
+    path: Assets/Scenes/Series/Bunch/SherlockBunch.unity
+    guid: 3a697f2827d5ffd42811561691db6836
+  - enabled: 1
+    path: Assets/Scenes/Series/Bunch/StrangerThingsBunch.unity
+    guid: 28c3042168f41f146a616f53cf228e69
+  - enabled: 1
+    path: Assets/Scenes/Series/Bunch/SupernaturalBunch.unity
+    guid: 184f54e856d6abd4e9821119e987293a
+  - enabled: 1
+    path: Assets/Scenes/Anime/Bunch/AttackOnTitanBunch.unity
+    guid: a0c293445a669f943a6765f9dc3f3afc
+  - enabled: 1
+    path: Assets/Scenes/Anime/Bunch/BleachBunch.unity
+    guid: 80857e09287614e4fae27825a8651f54
+  - enabled: 1
+    path: Assets/Scenes/Anime/Bunch/MyHeroAcademiaBunch.unity
+    guid: e65f4446b2237fd45814952f8242a2e9
+  - enabled: 1
+    path: Assets/Scenes/Anime/Bunch/NarutoBunch.unity
+    guid: 6cc233cce785cdf4fbeee30a8d85a7b0
+  - enabled: 1
+    path: Assets/Scenes/Anime/Bunch/OnePieceBunch.unity
+    guid: 1837cc44a5740904a9723b67ab1d0919
+  - enabled: 1
+    path: Assets/Scenes/Anime/Bunch/PokemonBunch.unity
+    guid: f450d8da3ff04974d81d4653882742e6
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

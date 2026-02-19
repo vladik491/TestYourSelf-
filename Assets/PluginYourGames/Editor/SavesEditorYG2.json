@@ -1,0 +1,21 @@
+{
+    "stringKeys": [],
+    "stringValues": [],
+    "floatKeys": [
+        "MusicVolume"
+    ],
+    "floatValues": [
+        0.3277004063129425
+    ],
+    "intKeys": [],
+    "intValues": [],
+    "intExample": 5,
+    "strExample": "Hello!",
+    "boolExample": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "idSave": 172
+}
